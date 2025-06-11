@@ -1,16 +1,17 @@
-## Hi there 👋
+# 自己紹介
+## 👨‍💼 職業  
+- 大学生
 
-<!--
-**matsuzawa-kouga/matsuzawa-kouga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 趣味  
+- ゲーム  
+- 映画鑑賞  
+- 読書（SF）
 
-Here are some ideas to get you started:
+## 🛠️ 使っている技術  
+- 言語: JavaScript / TypeScript / Python 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 リンク  
+- [GitHub](https://github.com/matsuzawa-kouga)  
+
+
+## 🖼️ ポートフォリオ  
